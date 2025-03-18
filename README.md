@@ -1,1 +1,3 @@
-# bybit-data-parser
+######################################
+# Add parameters before running code #
+######################################
